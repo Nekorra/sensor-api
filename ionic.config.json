@@ -1,0 +1,7 @@
+{
+  "name": "aseec-sensors",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
